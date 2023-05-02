@@ -1,0 +1,91 @@
+﻿~ 1
+#Catg:
+Present Simple
+
+#Name:
+Present Simple
+
+#Desccription:
+Используется для:
+☺ Описания природных явлений и фактов;
+☺ Расписаний транспорта, трансляций, киносеансов и т. п.;
+☺ Внутреннего состояния, чувств.
+
+<u>Слова-маркеры</u>
+·always (всегда);
+·usually (обычно);
+·never (никогда);
+·sometimes (иногда);
+·rarely (нечасто);
+·seldom (редко);
+·regularly (регулярно);
+·every day (каждый день);
+·often (часто).
+
+#Examples:
+<b> The sun rises in the east and sets in the west.</b> — <i>Солнце восходит на востоке и садится на западе. </i>
+
+<b>I have English classes twice a week. .</b> — <i>У меня уроки английского два раза в неделю. </i>
+
+# Summary:
+Простое время
+
+~ 2
+#Catg:
+Past Simple
+
+#Name:
+Past Simple
+
+#Desccription:
+Простое прошедшее время сообщает нам о факте или каком-либо единичном простом действии, законченном в прошлом. Также Past Simple характеризует несколько действий, которые произошли в прошлом в хронологическом порядке. Для того, чтобы сообщить о действии, которое неоднократно повторялось в прошлом, также потребуется Past Simple.
+
+<u>Слова-маркеры</u>
+·yesterday (вчера);
+·in 2008 (в 2008 году);
+·15 years ago (15 лет назад);
+·last week (на прошлой неделе);
+·the day before yesterday (позавчера).
+
+#Examples:
+<b>In 2000 Angelina Jolie won an Oscar</b> — <i>В 2008 году Анджелина Джоли выиграла Оскар.</i>
+
+<b>I came home, called Jane and had dinner with my friend</b> — <i>Я пришел домой, позвонил Джейн и пообедал с моим другом.</i> 
+
+<b>I took Spanish courses when I was young</b> — <i>Я ходил на курсы испанского языка, когда был молодым.</i>
+
+#Summary:
+Простое время
+
+~ 3
+# Catg
+Future Simple
+
+# Name:
+Future Simple
+
+# Description:
+Времена группы Future английская грамматика «маркирует» вспомогательным глаголом will.
+Future Simple используется в следующих случаях:
+☺ Одиночное простое действие в будущем;
+☺ Решение, которое мы принимаем в момент разговора;
+☺ Действия, которые повторяются в будущем;
+☺ Обозначение нескольких действий, совершающихся в будущем последовательно;
+
+<u>Слова-маркеры</u>
+·tomorrow (завтра);
+·next summer (следующим летом);
+·in ten years (через десять лет);
+·in 2020 (в 2020 году).
+
+#Examples:
+<b>I will sign it</b> — <i>Я подпишу это</i>
+
+<b>I will buy a ticket and you stay here</b> — <i>Я куплю билет, а ты останься здесь.</i>
+
+<b>I will visit Jane a few times in Paris</b> — <i>Я навещу Джейн в Париже несколько раз</i>
+
+<b>I will meet with him and I will explain how to do this</b> — <i>Я с ним встречусь и объясню, как это сделать.</i>
+
+# Summary:
+Простое время

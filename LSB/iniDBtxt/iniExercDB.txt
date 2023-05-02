@@ -1,0 +1,145 @@
+﻿~ 1
+#Catg:
+Present Simple
+
+#Name:
+Present Simple 1
+
+#Task:
+Вставьте глаголы в правильной форме.
+
+#Content:
+The sun ____ (rise) in the east and ___ (set) in the west.
+
+# Answer:
+rises sets
+
+~ 2
+#Catg:
+Present Simple
+
+#Name:
+Present Simple 2
+
+#Task:
+Вставьте глаголы в правильной форме.
+
+#Content:
+I ____ (have) English classes twice a week.
+
+# Answer:
+have
+
+~ 3
+#Catg:
+Past Simple
+
+#Name:
+Past Simple 1
+
+#Task:
+Вставьте глаголы в правильной форме.
+
+#Contents:
+In 2000 Angelina Jolie ___ (win) an Oscar.
+
+#Answer:
+won
+
+~ 4
+#Catg:
+Past Simple
+
+#Name:
+Past Simple 2
+
+#Task:
+Вставьте глаголы в правильной форме.
+
+#Contents:
+I ____ (come) home, _____ (call) Jane and ___ (have) dinner with my friend.
+
+#Answer: 
+came called had
+
+~ 5
+#Catg:
+Past Simple
+
+#Name:
+Past Simple 3
+
+#Task:
+Вставьте глаголы в правильной форме.
+
+#Contents:
+I ____ (take) Spanish courses when I ___ (be) young. 
+
+#Answer: 
+took was
+
+~ 6
+# Catg
+Future Simple
+
+# Name:
+Future Simple 1
+
+# Task:
+Вставьте глаголы в правильной форме.
+
+#Contents:
+I ____ (sign) it.
+
+# Answer:
+will sign
+
+~ 7
+# Catg
+Future Simple
+
+# Name:
+Future Simple 2
+
+# Task:
+Вставьте глаголы в правильной форме.
+
+#Contents:
+I ____ (buy) a ticket and you stay here. 
+
+# Answer: 
+will buy
+
+~ 8
+# Catg
+Future Simple
+
+# Name:
+Future Simple 3
+
+# Task:
+Вставьте глаголы в правильной форме.
+
+#Contents:
+I ____ (visit) Jane a few times in Paris.
+
+# Answer: 
+will visit
+
+~ 9
+# Catg
+Future Simple
+
+# Name:
+Future Simple 4
+
+# Task:
+Вставьте глаголы в правильной форме.
+
+#Contents:
+I ____ (meet) with him and I ____ (explain) how to do this. 
+
+# Answer:
+will meet will explain
+
+
